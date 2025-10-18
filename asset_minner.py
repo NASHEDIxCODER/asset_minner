@@ -14,6 +14,7 @@ SECRET_PATTERNS = {
     'AWS Access Key': r'AKIA[0-9A-Z]{16}',
     'GitHub Token': r'(ghp|gho|ghu|ghs|ghr)_[0-9a-zA-Z]{36}',
     'Firebase URL': r'https://[a-z0-9-]+\.firebaseio\.com',
+    'Vue AWS AppSync Key': r'VUE_APP_AWS_APPSYNC_API_KEY["\']?\s*[:=]\s*["\'][a-zA-Z0-9-]{20,}',
 }
 def display_banner():
     """Displays an aesthetic banner for the tool."""

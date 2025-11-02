@@ -31,7 +31,7 @@ As a penetration tester or bug bounty hunter, reconnaissance is a critical phase
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/NASHEDIxCODER/asset_minner.git](https://github.com/NASHEDIxCODER/asset_minner.git)
+    git clone https://github.com/NASHEDIxCODER/asset_minner.git
     cd asset_minner
     ```
 
